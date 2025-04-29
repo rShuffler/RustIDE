@@ -14,4 +14,3 @@ The project is based on Rust 2021, please do not change the version as it will b
 1. Your project must be open source and must be posted on github or gitlab.
 2. Your project must not contain 18+ content
 
-Translated with DeepL.com (free version)
