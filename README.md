@@ -1,7 +1,7 @@
-# RustIDE
+# LumaIDE
 IDE on Rust
 
-# About Rust IDE
+# About LumaIDE
 
 The project is trying to revive Atom IDE but in safe Rust language. So far we are trying to improve the editor and add new functionality. 
 
